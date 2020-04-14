@@ -3,6 +3,7 @@ import React, { useState } from 'react'
 
 
 const StyledItem = styled.li`
+    display: block;
 `
 function SideBarList({ items }) {
     return (

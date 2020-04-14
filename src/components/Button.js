@@ -9,6 +9,7 @@ export default styled.button`
     background-color: white;
     text-decoration: none;
     font-size: 14px;
+    font-weight: 600;
     border: solid 2px #e52d27;
     color: #e52d27;
     transition: color 0.5s ease;
